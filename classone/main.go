@@ -15,4 +15,5 @@ func main() {
 	simplecalc.Mul(a, b)
 	fmt.Println(c)
 	fmt.Println(Hello)
+
 }

@@ -7,5 +7,6 @@ func Add(a, b int) int {
 }
 
 func Mul(a, b int) {
+
 	fmt.Println(a * b)
 }
